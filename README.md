@@ -2,6 +2,10 @@
 
 **Unlimited Color Generator** is a simple tool that generates random background colors continuously when the user clicks "Start." The color changes until the user presses any key to stop it. 
 
+##Demo
+
+[Live Demo](https://ayush88-debug.github.io/Unlimited-Color-Generator/)
+
 ## Features
 
 - **Start Button**: Initiates the continuous color generation.
